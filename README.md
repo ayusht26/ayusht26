@@ -1,9 +1,5 @@
 ![Banner](./assets/banner.svg)
 
-# Hey, I'm Ayush 👋
-### Full Stack · AI/ML · GenAI · Agentic AI
-
----
 
 ## 👤 About Me
 
