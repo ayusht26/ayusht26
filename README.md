@@ -3,12 +3,10 @@
 
 ## 👤 About Me
 
-🔭 Building open-source tools & GenAI projects  
-🤝 Open to collaborate on React, Node.js & AI/ML  
-📚 Learning TypeScript, backend systems & applied GenAI  
-🛠️ Seeking help with scaling, system design & AI engineering  
-💬 Ask me about DSA (C/C++), Python, AIML, Web Dev  
-⚡ I build practical tools that solve real problems  
+🔭 Building open-source developer tools and GenAI applications  
+⚙️ Full-stack developer focused on React, TypeScript, Node.js, and AI  
+🚀 Currently exploring AI engineering, system design, and scalable backends  
+💬 Ask me about DSA, Python, Web Development, and Machine Learning  
 
 ---
 
@@ -51,7 +49,7 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=ayusht26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=ayusht26&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=ayusht26&theme=dark&hide_border=false&v=2)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayusht26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
